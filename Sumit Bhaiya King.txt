@@ -1,0 +1,30 @@
+Public class Student{
+
+
+public int id;
+
+public String name;
+
+public Striong Address;
+
+
+public static void main(String[]args){
+
+
+
+
+Student s = new Student();
+
+s.id(10);
+s.name("Rushi");
+s.address("Jalna");
+
+
+
+}
+
+
+
+
+
+}
